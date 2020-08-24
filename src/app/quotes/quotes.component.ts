@@ -19,19 +19,19 @@ export class QuoteComponent implements OnInit {
     new Quotes(1,
      ' Get busy living or get busy dying,the purpose of our lives is to be happy,',
     'Ann Ken',
-     'Muchera Brian', new Date(2020,4,2), ),
+     'Muchera Brian', new Date(2020,5,2), ),
    new Quotes (2,
     ' You only live once, but if you do it right, once is enough',
      'Harvey Black',
-     'Crazy Mike', new Date(2020,4,2)),
+     'Crazy Mike', new Date(2020,6,2)),
 new Quotes(3,
      'I think being in love with life is a key to eternal youth',
      'Peter Gonzales',
-     'Cage jacobs', new Date(2020,4,2)),
+     'Cage jacobs', new Date(2020,7,2)),
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
      'Jane Martins',
-     'Penny Calebs', new Date(2020,4,2))
+     'Penny Calebs', new Date(2020,8,2))
   ]
 
   public show:boolean = false;
@@ -71,14 +71,14 @@ newQuote.completeDate = new Date(newQuote.completeDate)
   this.quotes.push(newQuote)
 }
 
-  
-
   constructor() { 
 
   }
 
   ngOnInit() {
   }
+
+
 
   toggle(){
     this.show = !this.show;
@@ -90,3 +90,4 @@ newQuote.completeDate = new Date(newQuote.completeDate)
   }
 
 }
+

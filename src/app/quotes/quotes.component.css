@@ -20,8 +20,8 @@ h2 {
     margin-bottom: 20px;
     background-color: #1C2833;
     color: white;
-    text-shadow: 0 0 10px #873600;
-    box-shadow: 0 0 7px #922B21;
+    text-shadow: 0 0 10px hsl(293, 89%, 21%);
+    box-shadow: 0 0 7px #ec1a07;
 }
 
 .all {
