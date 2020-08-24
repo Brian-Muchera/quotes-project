@@ -39,7 +39,7 @@ new Quotes(3,
 
   deleteQuote(isComplete, index){
     if (isComplete){
-      let toDelete = confirm(`Are you sure you want to remove the  Quote?`)
+      let toDelete = confirm(`Are you sure you want to erase the  Quote?`)
 
       if(toDelete){
         this.quotes.splice(index,1)
