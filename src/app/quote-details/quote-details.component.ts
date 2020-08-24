@@ -1,4 +1,4 @@
-import { VotesComponent } from './../vote/vote.component';
+import { VotesComponent } from './../votes/votes.component';
 import { Component, OnInit, Input, Output, EventEmitter} from '@angular/core';
 import { Quotes } from '../quotes'
 

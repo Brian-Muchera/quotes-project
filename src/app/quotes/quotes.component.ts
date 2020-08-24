@@ -8,7 +8,7 @@ import { QuoteFormComponent } from '../quote-form/quote-form.component';
   templateUrl: './quotes.component.html',
   styleUrls: ['./quotes.component.css']
 })
-export class QuotesComponent implements OnInit {
+export class QuoteComponent implements OnInit {
 
 @Input() name : QuoteFormComponent;
 // @Input() description: any;
@@ -31,7 +31,7 @@ new Quotes(3,
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
      'Jane Martins',
-     'Ruth Mugo', new Date(2020,4,2))
+     'penny calebs', new Date(2020,4,2))
   ]
 
   public show:boolean = false;
