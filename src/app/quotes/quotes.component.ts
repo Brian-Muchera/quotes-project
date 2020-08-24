@@ -31,7 +31,7 @@ new Quotes(3,
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
      'Jane Martins',
-     'penny calebs', new Date(2020,4,2))
+     'penny Calebs', new Date(2020,4,2))
   ]
 
   public show:boolean = false;
