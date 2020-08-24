@@ -22,7 +22,7 @@ export class QuoteComponent implements OnInit {
      'Muchera Brian', new Date(2020,4,2), ),
    new Quotes (2,
     ' You only live once, but if you do it right, once is enough',
-     'Unknown',
+     'Harvey Black',
      'Crazy Mike', new Date(2020,4,2)),
 new Quotes(3,
      'I think being in love with life is a key to eternal youth',
