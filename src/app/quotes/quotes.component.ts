@@ -17,17 +17,17 @@ export class QuoteComponent implements OnInit {
 
   quotes:Quotes [] =[
     new Quotes(1,
-     'Life is what happens when you are busy making other plans',
+     ' Get busy living or get busy dying,the purpose of our lives is to be happy,',
     'Ann Ken',
      'Muchera Brian', new Date(2020,4,2), ),
    new Quotes (2,
-     'Be happy for this moment. This Moment is your life',
+    ' You only live once, but if you do it right, once is enough',
      'Unknown',
-     'Crazy Mindz', new Date(2020,4,2)),
+     'Crazy Mike', new Date(2020,4,2)),
 new Quotes(3,
      'I think being in love with life is a key to eternal youth',
      'Peter Gonzales',
-     'Jibril', new Date(2020,4,2)),
+     'cage jacobs', new Date(2020,4,2)),
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
      'Jane Martins',
@@ -39,7 +39,7 @@ new Quotes(3,
 
   deleteQuote(isComplete, index){
     if (isComplete){
-      let toDelete = confirm(`Are you sure you want to delete the  Quote?`)
+      let toDelete = confirm(`Are you sure you want to remove the  Quote?`)
 
       if(toDelete){
         this.quotes.splice(index,1)
