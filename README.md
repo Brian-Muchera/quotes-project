@@ -25,3 +25,47 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Author
+
+* Muchera Brian
+
+## project name
+
+*quotes
+
+## Setup/Installation
+
+* git clone https://github.com/Brian-Muchera/quotes-project.git
+* cd into a folder called quotes.
+
+* Open index.html from your browser.
+
+## Technologie Used
+
+* Angularjs
+
+* BOOTSTRAP
+
+
+## BDD
+ 
+ |Input            |  Output  
+| :----------------------:|:---------------:|
+|The Form           | The User can create their own quotes and it will show the quote, author and person who created it the the date create.
+| Voting| The user can vote their best quotes |
+|Toggle|The user can toggle through the details and see more details ie the voting buttons and the person who created the vote|
+|Submit button | The user can submit their quotes and it will be displayed to them|
+
+## Live Demo
+
+* 
+
+
+
+## License information
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
