@@ -27,7 +27,7 @@ export class QuoteComponent implements OnInit {
 new Quotes(3,
      'I think being in love with life is a key to eternal youth',
      'Peter Gonzales',
-     'cage jacobs', new Date(2020,4,2)),
+     'Cage jacobs', new Date(2020,4,2)),
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
      'Jane Martins',
