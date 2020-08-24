@@ -38,6 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Setup/Installation
 
 * git clone https://github.com/Brian-Muchera/quotes-project.git
+
 * cd into a folder called quotes.
 
 * Open index.html from your browser.
