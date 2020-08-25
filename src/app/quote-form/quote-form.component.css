@@ -1,0 +1,16 @@
+label {
+    color: white;
+}
+
+h2 {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.real {
+    border: 1px solid black;
+    background-color: #566573;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0 0 7px #922B21;
+}

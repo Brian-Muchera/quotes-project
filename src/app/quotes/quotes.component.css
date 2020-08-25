@@ -1,0 +1,36 @@
+.del {
+    padding-bottom: 15px;
+}
+
+.styl {
+    content: '';
+    display: block;
+    margin-top: 2px;
+    border-top: 1px solid #8c8b8b;
+    border-bottom: 1px solid #fff
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.card-body {
+    margin-bottom: 20px;
+    background-color: #1C2833;
+    color: white;
+    text-shadow: 0 0 10px hsl(293, 89%, 21%);
+    box-shadow: 0 0 7px #ec1a07;
+}
+
+.all {
+    background-image: url("//src/assets/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
