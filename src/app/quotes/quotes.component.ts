@@ -30,7 +30,7 @@ new Quotes(3,
      'Cage jacobs', new Date(2020,7,2)),
    new Quotes (4,
        'My mission in life is not merely to survive, but to thrive; and to do so with some passion,some compassion, some humor and some style',
-     'Jane Martins',
+     'kimberly',
      'Penny Calebs', new Date(2020,8,2))
   ]
 
