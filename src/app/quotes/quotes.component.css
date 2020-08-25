@@ -1,5 +1,5 @@
 .del {
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 
 .styl {
@@ -18,13 +18,13 @@ h2 {
 
 .card-body {
     margin-bottom: 20px;
-    background-color: #1C2833;
+    background-color: #52575c;
     color: white;
-    text-shadow: 0 0 10px hsl(293, 89%, 21%);
+    text-shadow: 0 0 10px hsl(293, 94%, 46%);
     box-shadow: 0 0 7px #ec1a07;
 }
 
-.all {
+ .all {
     background-image: url("//src/assets/wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
